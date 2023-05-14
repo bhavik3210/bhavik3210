@@ -10,6 +10,7 @@
   - Web Development (ReactJS)
   - .Net 
   - I've touched mostly all parts of full stack at some point in my career which ended up in production 
+- 🏋️ Other Interests: Fitness, Nutrition and Personal Finance
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik3210)
 <!--
 **bhavik3210/bhavik3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
