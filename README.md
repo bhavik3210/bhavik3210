@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: React Native project profesionaly, former Native Android develooper
+- 🔭 I’m currently working on: 
+  - React Native project profesionaly
 - 🌱 I’m currently learning 
   - Go(lang) stack for building backend, dev cli tools and grinding out leetcode from time to time when I have time
   - JS statck (Typescritp) for React Native work that I do professionaly and loving some new gen web dev tech such as Astro and NextJS. 
-- 💼 Professional Experience
+- 💼 Past Professional Experience
   - Android Development (Native)
   - Web Development (ReactJS)
   - .Net 
