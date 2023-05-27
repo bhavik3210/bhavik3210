@@ -20,12 +20,9 @@
 - Always able to find a decent practical solution to problems
 - Great organizer that is practical but not OCD about it
 - I do not like being dogmatic, the answer always comes out to be "IT DEPENDS" on the situation 
-
 - Ability help others to improve their skills, workflows, productivity, etc. 
 - I love improving my production speed and quality via manipulating my workflow
 - I like simple but not simplistic 
-
-
 
 # Skills
 
