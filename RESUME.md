@@ -16,8 +16,8 @@
 
 >  what I have learned about myself in my perosnal and professional career...
 
-- Ability to abosorb new skills 
-- Always able to find a decent practical solution to problems
+- Great ability to abosorb new skills 
+- Have always been able to find a decent practical solution to problems even when I thought it was impossible
 - Great organizer that is practical but not OCD about it
 - I do not like being dogmatic, the answer always comes out to be "IT DEPENDS" on the situation 
 - Ability help others to improve their skills, workflows, productivity, etc. 
