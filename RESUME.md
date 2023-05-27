@@ -14,7 +14,7 @@
 - Solving problem in a practical manner
 - Improving on solutions that already exist and are considered "defacto", sometimes defacto is defacto for a reason
 
->  what I have learned about myself in my perosnal and professional career...
+>  🤔 what I have learned about myself in my perosnal and professional career...
 
 - Great ability to abosorb new skills 
 - Have always been able to find a decent practical solution to problems even when I thought it was impossible
