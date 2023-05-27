@@ -1,8 +1,33 @@
 ### `Bhavik Patel`
 
 > 👋 Hi there! 
-> I am a software developer/engineer who loves solving problems. 
-> My strong suit is problem solving, learning new skills, and applying my knowledge in a practical and simple (not simplistic) manner. I have been working in software development field in one way or another since my teenage years from high school. My motivation to keep going has alwasy been solving new problems, acquiring new skills, and improving anything that comes my way personally or professionally. I tend to choose road less travelled to find better solutions via learning by failure and success in my peronal life and in my professional career. I have come to learn, that my oustanding qualities/skills are learning new skills, adopting to change, always be able to find a solution to a problem, OCD level 🙂 organized and ability help other devs improve their dev workflow. 
+
+- I am a software developer/engineer.
+- I have been working in software development field in one way or another since my teenage years from high school. 
+- I tend to choose road less travelled to find better solutions via learning by failure and success. 
+- I do not like to be dogmatic but look at the problem and situation and try different solutions from there
+- Outside of Work interests include fitness, nutrition, personal finance,  and cooking.
+
+`I ♥️`
+
+- Learning and acquiring new skills to broaden/challenge my exisiting knowledge
+- Solving problem in a practical manner
+
+- Improving on solutions that already exist and are considered "defacto"
+
+`what I have learned about myself in my perosnal and professional career...`
+
+- Ability to abosorb new skills 
+- Always able to find a decent practical solution to problems
+- Great organizer that is practical 
+- I do not like being dogmatic, the answer always comes out to be "IT DEPENDS" on the situation 
+
+- Ability help others to improve their skills, workflows, productivity, etc. 
+- I like simple but not simplistic 
+
+
+
+
 
 # Skills
 
