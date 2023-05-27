@@ -5,27 +5,26 @@
 - I am a software developer/engineer.
 - I have been working in software development field in one way or another since my teenage years from high school. 
 - I tend to choose road less travelled to find better solutions via learning by failure and success. 
-- I do not like to be dogmatic but look at the problem and situation and try different solutions from there
+- I do not like to be dogmatic but look at the problem and situation and try different solutions to see what works best
 - Outside of Work interests include fitness, nutrition, personal finance,  and cooking.
 
-`I ♥️`
+>  I ♥️
 
 - Learning and acquiring new skills to broaden/challenge my exisiting knowledge
 - Solving problem in a practical manner
 
-- Improving on solutions that already exist and are considered "defacto"
+- Improving on solutions that already exist and are considered "defacto", sometimes defacto is defacto for a reason
 
-`what I have learned about myself in my perosnal and professional career...`
+>  what I have learned about myself in my perosnal and professional career...
 
 - Ability to abosorb new skills 
 - Always able to find a decent practical solution to problems
-- Great organizer that is practical 
+- Great organizer that is practical but not OCD about it
 - I do not like being dogmatic, the answer always comes out to be "IT DEPENDS" on the situation 
 
 - Ability help others to improve their skills, workflows, productivity, etc. 
+- I love improving my production speed and quality via manipulating my workflow
 - I like simple but not simplistic 
-
-
 
 
 
