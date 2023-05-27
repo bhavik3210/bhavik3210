@@ -12,7 +12,6 @@
 
 - Learning and acquiring new skills to broaden/challenge my exisiting knowledge
 - Solving problem in a practical manner
-
 - Improving on solutions that already exist and are considered "defacto", sometimes defacto is defacto for a reason
 
 >  what I have learned about myself in my perosnal and professional career...
