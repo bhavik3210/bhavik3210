@@ -97,7 +97,7 @@ Bachelor of Science
 
 ##### - Cricket Scoring 2.0
 
-# How to contact me?
+# How to reach me?
 
 > I preferred to be contacted via linked in direct messaging
 
