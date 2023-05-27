@@ -1,10 +1,10 @@
-name: `Bhavik Patel`
+### `Bhavik Patel`
 
-[linkedIn](https://www.linkedin.com/in/bhavik3210/)
+> 👋 Hi there! 
+> I am a software developer/engineer who loves solving problems. 
+> My strong suit is problem solving, learning new skills, and applying my knowledge in a practical and simple (not simplistic) manner. I have been working in software development field in one way or another since my teenage years from high school. My motivation to keep going has alwasy been solving new problems, acquiring new skills, and improving anything that comes my way personally or professionally. I tend to choose road less travelled to find better solutions via learning by failure and success in my peronal life and in my professional career. I have come to learn, that my oustanding qualities/skills are learning new skills, adopting to change, always be able to find a solution to a problem, OCD level 🙂 organized and ability help other devs improve their dev workflow. 
 
----
-
-# Skills acquired so far...
+# Skills
 
 - Mobile
   - Android SDK w/ Kotlin and Java
@@ -76,3 +76,9 @@ Bachelor of Science
 ##### - Weather Cards
 
 ##### - Cricket Scoring 2.0
+
+# How to contact me?
+
+> I preferred to be contacted via linked in direct messaging
+
+[linkedIn](https://www.linkedin.com/in/bhavik3210/)
