@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Learning Golang and backend development
-  - Learning roadmap
-    - Golang, Rust
+  - Transitioning to backend development with following Tech stack:
+    - Golang
     - Serverless App Development 
     - AWS Certifications
-    - Tools: Docker, Kubernetes
+    - Docker, Kubernetes
     - Dev Ops
 - What I'm looking forward to in my career
   - Transitioning to Backend development and Dev Ops work full-time with tech stack Golang, Backend Services, Cloud Development, Developer Operations, and everything in between.
