@@ -22,7 +22,7 @@
 - I do not like being dogmatic, the answer always comes out to be "IT DEPENDS" on the situation 
 - Ability help others to improve their skills, workflows, productivity, etc. 
 - I love improving my production speed and quality via manipulating my workflow
-- I like simple but not simplistic 
+- I favor simple solutions to complex problems
 
 # Skills
 
