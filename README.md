@@ -6,7 +6,7 @@
     - Serverless App Development 
     - AWS Certifications
     - Docker, Kubernetes 
-    - IaC Terraform
+    - IaC w/ Terraform
     - Dev Ops
 - What I'm looking forward to in my career
   - Transitioning to Backend development and Dev Ops work full-time with tech stack Golang, Backend Services, Cloud Development, Developer Operations, and everything in between.
