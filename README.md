@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
   - Transitioning to backend development with following Tech stack:
-    - Golang, JS/TS, Python
+    - Golang, JS/TS
     - Serverless App Development 
     - AWS Certifications
     - Docker, Kubernetes 
